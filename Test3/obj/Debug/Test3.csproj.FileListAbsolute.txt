@@ -1,0 +1,16 @@
+C:\Users\Anya\source\repos\demo3\Test3\bin\Debug\Test3.exe.config
+C:\Users\Anya\source\repos\demo3\Test3\bin\Debug\Test3.exe
+C:\Users\Anya\source\repos\demo3\Test3\bin\Debug\Test3.pdb
+C:\Users\Anya\source\repos\demo3\Test3\bin\Debug\EntityFramework.dll
+C:\Users\Anya\source\repos\demo3\Test3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anya\source\repos\demo3\Test3\bin\Debug\EntityFramework.xml
+C:\Users\Anya\source\repos\demo3\Test3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anya\source\repos\demo3\Test3\obj\Debug\Test3.csproj.AssemblyReference.cache
+C:\Users\Anya\source\repos\demo3\Test3\obj\Debug\Test3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anya\source\repos\demo3\Test3\obj\Debug\Test3.FormCatalog.resources
+C:\Users\Anya\source\repos\demo3\Test3\obj\Debug\Test3.Properties.Resources.resources
+C:\Users\Anya\source\repos\demo3\Test3\obj\Debug\Test3.csproj.GenerateResource.cache
+C:\Users\Anya\source\repos\demo3\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+C:\Users\Anya\source\repos\demo3\Test3\obj\Debug\Test3.csproj.CopyComplete
+C:\Users\Anya\source\repos\demo3\Test3\obj\Debug\Test3.exe
+C:\Users\Anya\source\repos\demo3\Test3\obj\Debug\Test3.pdb
